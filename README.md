@@ -2,6 +2,8 @@
 
 **Un lápiz común que toca música al dibujar, ahora por USB MIDI.**
 
+![Uploading image.png…]()
+
 
 
 Un lápiz de grafito con un cable pegado atrás, una ESP32-S3 y nada más. Dibujás sobre papel y cada trazo se convierte en notas MIDI en vivo, que suenan en cualquier DAW o VST.
