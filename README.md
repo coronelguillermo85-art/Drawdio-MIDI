@@ -2,6 +2,8 @@
 
 **Un lápiz común que toca música al dibujar, ahora por USB MIDI.**
 
+
+
 Un lápiz de grafito con un cable pegado atrás, una ESP32-S3 y nada más. Dibujás sobre papel y cada trazo se convierte en notas MIDI en vivo, que suenan en cualquier DAW o VST.
 
 > Inspirado en el [Drawdio](https://web.media.mit.edu/~silver/drawdio/) original de Jay Silver (MIT Media Lab), que usaba un circuito analógico. Esta versión usa touch capacitivo y manda MIDI.
