@@ -10,6 +10,11 @@ Un lápiz de grafito con un cable pegado atrás, una ESP32-S3 y nada más. Dibuj
 
 ## ¿Cómo funciona?
 
+
+https://github.com/user-attachments/assets/be5f10d5-14a1-477d-babd-6aa1e8cbd7ef
+
+
+
 1. La ESP32-S3 lee el **touch capacitivo** del pin GPIO4, conectado a la mina del lápiz.
 2. El grafito del trazo agranda el electrodo, así que **cuanto más largo es el trazo, más sube la lectura**.
 3. El sketch convierte esa lectura en una nota de una escala pentatónica de 3 octavas (15 notas).
