@@ -2,7 +2,10 @@
 
 **Un lápiz común que toca música al dibujar, ahora por USB MIDI.**
 
-![Uploading image.png…]()
+<img width="1254" height="1254" alt="drewdio" src="https://github.com/user-attachments/assets/b6ba2755-de43-423d-913d-2564d82873c7" />
+
+
+
 
 
 
